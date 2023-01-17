@@ -284,7 +284,7 @@ body {
 
 
 
-/* @media(max-width: 888px) {
+@media(max-width: 888px) {
     .blockport img {
         width: 300px;
     }
@@ -341,13 +341,10 @@ body {
     }
 
     .texttwo {
-        font-size: 10px;
-        margin-left: 40%;
-        margin-right: 0px;
-        margin-top: 10999090px;
+        display: none;
     }
 
     .textthree {
-        margin-top: 34232px;
+        display: none;
     }
-} */
+} 
